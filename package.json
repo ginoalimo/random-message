@@ -9,8 +9,16 @@
   "keywords": [],
   "author": "Gino A. Limo <ginoalgarcia@gmail.com>",
   "license": "MIT",
-  "bin" : {
-	"random-msg": "./bin/global.js"
-	},
-  "preferGlobal": true
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razurs/random-message.git"
+  },
+  "bugs": {
+    "url": "https://github.com/razurs/random-message/issues"
+  },
+  "homepage": "https://github.com/razurs/random-message#readme"
 }
